@@ -16,4 +16,9 @@ public class Msg {
   public String getAge() {
     return age;
   }
+
+  public void setAge(String name) {
+    this.age = name;
+  }
+
 }
